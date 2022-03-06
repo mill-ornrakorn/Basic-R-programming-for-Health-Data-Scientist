@@ -7,7 +7,7 @@
 **Date and Time:** 11-12 January 2021, 8:30 a.m. - 16:00 p.m. 
 
 **Workshop Description:** 
-- Lecture 1: R and RStudio demo
+- Lecture 1: R as calculator
 - Lecture 2: Descriptive data analysis
 - Lecture 3: R graphic and ggplots tutorials
 - Lecture 4: Probability and Hypothesis testing
